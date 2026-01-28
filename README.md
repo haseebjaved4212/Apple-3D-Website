@@ -26,33 +26,29 @@ A visually stunning and interactive landing page for the MacBook Pro, built with
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/gsap_macbook_landing-main.git
-   ```
-
+   
 2. **Navigate to the project directory:**
    ```bash
-   cd gsap_macbook_landing-main
+   cd my-project
    ```
 
 3. **Install the dependencies:**
    ```bash
    npm install
+   ``
+   
    ```
 
 4. **Start the development server:**
    ```bash
    npm run dev
-   ```
    This will start the development server at `http://localhost:5173`.
 
 5. **Build for production:**
    ```bash
    npm run build
-   ```
-   This will create a `dist` folder with the production-ready files.
-
-## Project Structure
-
+   
+## Structure 
 ```
 .
 ├── public/ (8800 tokens)
