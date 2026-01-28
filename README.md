@@ -25,7 +25,6 @@ A visually stunning and interactive landing page for the MacBook Pro, built with
 ## Installation and Usage
 
 1. **Clone the repository:**
-   ```bash
    
 2. **Navigate to the project directory:**
    ```bash
@@ -139,3 +138,16 @@ A visually stunning and interactive landing page for the MacBook Pro, built with
 └── package.json (300 tokens)
 
 ```
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+© 2026 Haseeb Javed.
+
+
+---
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?key=1&width=400&height=40&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Haseeb+Javed" alt="Typing SVG" />
+</h3>
